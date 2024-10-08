@@ -6,7 +6,7 @@ This project utilises a Long Short-Term Memory (LSTM) model to predict stock pri
 
 - **Stock Price Prediction**: Uses a pre-trained LSTM model to predict future stock prices.
 - **Trading Simulation**: Simulates trading by applying predicted stock prices with configurable trading parameters.
-- **Interactive Visualizations**: Provides visual feedback on stock price predictions and trading outcomes.
+- **Interactive Visualisations**: Provides visual feedback on stock price predictions and trading outcomes.
 
 ## Installation
 
